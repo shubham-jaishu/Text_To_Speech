@@ -39,12 +39,12 @@ This project demonstrates:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/text-to-speech-converter.git
+   git clone https://github.com/shubham-jaishu/Text_To_Speech.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd text-to-speech-converter
+   cd Text_To_Speech
    ```
 
 3. Open the `index.html` file in your browser:
